@@ -5,7 +5,7 @@ import { monedas } from "../data/monedas";
 import Error from "./Error";
 
 const InputSubmit = styled.input`
-  background-color: #9497ff;
+  background-color: #66a2fe;
   border: none;
   width: 100%;
   padding: 10px;
@@ -18,7 +18,7 @@ const InputSubmit = styled.input`
   margin-top: 30px;
 
   &:hover {
-    background-color: #7a7dfe;
+    background-color: #66afff;
     cursor: pointer;
   }
 `;
